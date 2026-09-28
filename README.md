@@ -216,15 +216,6 @@ This section will be updated as I complete:
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishabh-code-ITM&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00BFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-code-ITM&layout=compact&langs_count=8&theme=material-palenight&border_color=00D9FF&title_color=00D9FF"/>
-
-</div>
-
-<div align="center">
 
 ## 🔥 GitHub Streak
 
