@@ -1,5 +1,3 @@
-<img src="./header-image.png" alt="Rishabh Kumar - Aspiring AI Engineer" width="100%"/>
-
 <div align="center">
 
 <img src="./header-image.png" alt="Rishabh Kumar - Aspiring AI Engineer" width="100%"/>
