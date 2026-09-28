@@ -225,25 +225,6 @@ This section will be updated as I complete:
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabh-code-ITM&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-code-ITM&theme=material-palenight&bg_color=0D1117&color=00D9FF&line=00BFFF&point=00FFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🌐 Let's Connect!
 
