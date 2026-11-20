@@ -6,8 +6,8 @@
 
 ### <i>Computer Science Student • Aspiring AI Engineer • Tech Enthusiast</i>
 
-📍 Naya Raipur, Chhattisgarh, India
-🎓 B.Tech in Computer Science & Engineering — ITM University, Naya Raipur
+📍 Raipur, Chhattisgarh, India
+🎓 B.Tech in Computer Science & Engineering — ITM University, Raipur
 
 </div>
 
@@ -37,7 +37,7 @@
 
 </div>
 
-* 🎓 B.Tech Computer Science & Engineering student at **ITM University, Naya Raipur**
+* 🎓 B.Tech Computer Science & Engineering student at **ITM University, Raipur**
 * 📚 Currently pursuing my **1st Semester**
 * 💻 Building strong foundations in **programming and problem solving**
 * 🤖 Interested in **Artificial Intelligence and Machine Learning**
@@ -183,7 +183,7 @@ AI Engineering
 
 ## 🎓 Education
 
-### ITM University, Naya Raipur
+### ITM University, Raipur
 
 **B.Tech — Computer Science and Engineering**
 
